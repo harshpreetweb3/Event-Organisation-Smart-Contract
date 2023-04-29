@@ -1,1 +1,1 @@
-# Event-Organisation-Smart-Contract
+# event-organisation
